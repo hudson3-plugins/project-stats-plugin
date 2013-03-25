@@ -13,7 +13,7 @@
   <artifactId>project-stats-plugin</artifactId>
   <packaging>hpi</packaging>
   <name>Project statistics Plugin</name>
-  <version>0.4-h-1</version>
+  <version>0.4-h-2-SNAPSHOT</version>
   <description>Provide a new dashboard-view portlet and a new column for project statistics.</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Project+Statistics+Plugin</url>
 
