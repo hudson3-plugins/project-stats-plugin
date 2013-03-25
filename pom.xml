@@ -6,14 +6,14 @@
     <groupId>org.eclipse.hudson.plugins</groupId>
     <artifactId>hudson-plugin-parent</artifactId>
     <version>3.0.0</version>
-  <relativePath/>
+  <relativePath />
   </parent>
   
   <groupId>org.hudsonci.plugins</groupId>
   <artifactId>project-stats-plugin</artifactId>
   <packaging>hpi</packaging>
   <name>Project statistics Plugin</name>
-  <version>0.4-h-1-SNAPSHOT</version>
+  <version>0.4-h-1</version>
   <description>Provide a new dashboard-view portlet and a new column for project statistics.</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Project+Statistics+Plugin</url>
 
